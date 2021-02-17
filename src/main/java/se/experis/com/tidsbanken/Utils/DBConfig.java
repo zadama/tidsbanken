@@ -1,4 +1,4 @@
-package se.experis.com.tidsbanken;
+package se.experis.com.tidsbanken.Utils;
 
 import com.zaxxer.hikari.HikariConfig;
 import com.zaxxer.hikari.HikariDataSource;
